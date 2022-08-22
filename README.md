@@ -1,4 +1,4 @@
-A fork of https://github.com/windlace/scrypt to make it support PHP 8.X
+A fork of https://github.com/windlace/scrypt to make it support PHP 8.1
 
 Scrypt
 ---
