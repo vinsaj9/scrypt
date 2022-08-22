@@ -1,6 +1,6 @@
 {
-  "name": "cast/scrypt",
-  "description" : "Scrypt, pure PHP based on https://github.com/MPOS/php-mpos/blob/236cccd5d3178e99504bf2665db8bddfed6aa176/include/lib/scrypt.php",
+  "name": "vinsaj9/scrypt",
+  "description" : "Fork of https://github.com/windlace/scrypt to support PHP 8.X. Scrypt, pure PHP based on https://github.com/MPOS/php-mpos/blob/236cccd5d3178e99504bf2665db8bddfed6aa176/include/lib/scrypt.php",
   "type": "library",
   "license": "MIT",
   "require": {
