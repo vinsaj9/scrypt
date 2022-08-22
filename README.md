@@ -1,10 +1,12 @@
+A fork of https://github.com/windlace/scrypt to make it support PHP 8.X
+
 Scrypt
 ---
 **Pure PHP-implementation without any extensions**
 
 #### Install:
 ```php
-composer require cast/scrypt
+composer require vinsaj9/scrypt
 ```
 
 #### Usage:
