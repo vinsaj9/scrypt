@@ -8,7 +8,7 @@
  * @license http://framework.zend.com/license/new-bsd New BSD License
  */
 
-namespace Cast\Crypto\Scrypt;
+namespace Vinsaj9\Crypto\Scrypt;
 
 /**
  * Scrypt key derivation function
