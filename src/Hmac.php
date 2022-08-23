@@ -8,7 +8,7 @@
  * @license http://framework.zend.com/license/new-bsd New BSD License
  */
 
-namespace Cast\Crypto\Scrypt;
+namespace Vinsaj9\Crypto\Scrypt;
 
 /**
  * PHP implementation of the RFC 2104 Hash based Message Authentication Code
