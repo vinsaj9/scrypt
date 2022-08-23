@@ -8,7 +8,7 @@
  * @license http://framework.zend.com/license/new-bsd New BSD License
  */
 
-namespace Cast\Crypto\Scrypt;
+namespace Vinsaj9\Crypto\Scrypt;
 
 if (!extension_loaded('Scrypt')) {
     function scrypt($password, $salt, $n, $r, $p, $length)
