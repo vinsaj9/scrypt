@@ -1,8 +1,8 @@
 <?php
 
-namespace Cast\Crypto\Blake\Tests;
+namespace Vinsaj9\Crypto\Blake\Tests;
 
-use function Cast\Crypto\Scrypt\scrypt;
+use function Vinsaj9\Crypto\Scrypt\scrypt;
 use PHPUnit\Framework\TestCase;
 
 class ScryptTest extends TestCase
